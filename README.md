@@ -38,4 +38,4 @@ This frontend was developed to work alongside the backend logic found in:
 Porfus/gis-landslide-detection
 
 **🔗 Link**
-https://github.com/ArditCeno/gis-landslide-detection
+https: https://arditceno.github.io/gis-landslide-detection/

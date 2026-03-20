@@ -1,7 +1,8 @@
 # gis-landslide-detection
 GeoHike — Live Path Monitoring
-
 GeoHike is an interactive web project designed to enhance mountain safety by translating complex Earth Observation (EO) and weather data into visual safety indicators for hikers.
+
+This project is the frontend implementation for the gis-landslide-detection system, focusing on the user interface and real-time data visualization.
 
 🔹 Project Purpose
 The purpose of this project is to help users navigate mountain trails safely by providing a real-time "Danger Index". By integrating satellite data and meteorological conditions, the project simplifies technical GIS information into an intuitive map interface, helping tourists avoid high-risk landslide zones.
@@ -29,7 +30,11 @@ JavaScript: Core logic for map rendering, data processing, and dynamic styling.
 Leaflet.js: Open-source library used for interactive mobile-friendly maps.
 
 👨‍💻 Author
-Ardit Ceno (Frontend Developer & UI Designer)
+Ardit Ceno — Frontend Developer
+
+🤝 Collaboration
+This frontend was developed to work alongside the backend logic found in:
+Porfus/gis-landslide-detection
 
 🔗 Link
 https://github.com/ArditCeno/gis-landslide-detection
